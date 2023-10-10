@@ -1,0 +1,22 @@
+{
+  "name": "safari-flicker-bug-sticky",
+  "version": "0.0.1",
+  "description": "Bug in safari with position sticky and scroll to bottom ",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iampava/safari-flicker-bug-sticky.git"
+  },
+  "author": "Alexandru Pavaloi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iampava/safari-flicker-bug-sticky/issues"
+  },
+  "homepage": "https://github.com/iampava/safari-flicker-bug-sticky#readme",
+  "dependencies": {
+    "serve": "^14.2.1"
+  }
+}

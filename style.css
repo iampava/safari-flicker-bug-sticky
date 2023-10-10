@@ -1,0 +1,36 @@
+body {
+  font-family: sans-serif;
+  box-sizing: border-box;
+}
+
+body * {
+  box-sizing: inherit;
+}
+
+.header {
+  top: 0;
+  width: 100%;
+  padding: 1rem;
+  position: sticky;
+  color: #fff;
+  background: #000;
+}
+
+.content {
+  width: 100%;
+  height: 25vh;
+  padding: 3rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: 300;
+  background: #eee;
+  border: 1px solid #ddd;
+}
+
+#bottomEl {
+  width: 100%;
+  padding: 1rem;
+  color: #fff;
+  background: #000;
+}
