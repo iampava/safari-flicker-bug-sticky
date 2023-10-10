@@ -13,4 +13,4 @@
 
 ## Video Demo
 
-https://github.com/iampava/safari-flicker-bug-sticky/raw/master/public/video-demo.mp4
+https://github.com/iampava/safari-flicker-bug-sticky/assets/11327761/8368b0ce-6c16-4586-bd3a-dff2f0976f38
